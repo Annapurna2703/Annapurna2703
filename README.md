@@ -1,7 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://www.linkedin.com/feed/)
-[![Website Badge](https://annapurna2703.github.io/Profile_website/)
+
 
 
 I'm
